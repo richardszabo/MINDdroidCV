@@ -63,7 +63,7 @@ public class Options {
 
 			case R.id.robot_type_5:
 				robot_type_5.setChecked(true);
-		        Toast toast = Toast.makeText(myActivity, "version 90", Toast.LENGTH_SHORT);
+		        Toast toast = Toast.makeText(myActivity, "version 91", Toast.LENGTH_SHORT);
 		        toast.show();				
 				break;
 
